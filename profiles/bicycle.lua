@@ -593,10 +593,6 @@ function process_way(profile, way, result)
     cycleway_right = nil,
     duration = nil,
     service = nil,
-    foot = nil,
-    foot_forward = nil,
-    foot_backward = nil,
-    bicycle = nil,
 
     way_type_allows_pushing = false,
     has_cycleway_forward = false,
